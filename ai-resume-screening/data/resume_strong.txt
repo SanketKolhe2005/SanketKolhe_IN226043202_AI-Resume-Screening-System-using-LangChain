@@ -1,0 +1,13 @@
+Name: Rahul Sharma
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP
+
+Tools:
+TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+
+Experience:
+3 years as Data Scientist
+
+Projects:
+Built NLP chatbot and ML prediction system

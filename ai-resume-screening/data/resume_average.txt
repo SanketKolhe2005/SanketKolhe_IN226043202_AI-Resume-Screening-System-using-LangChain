@@ -1,0 +1,13 @@
+Name: Priya Singh
+
+Skills:
+Python, Machine Learning
+
+Tools:
+Scikit-learn, Pandas
+
+Experience:
+1 year internship
+
+Projects:
+Basic ML models
